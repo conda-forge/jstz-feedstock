@@ -17,12 +17,15 @@ such as Moment Timezone.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/jstz-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/jstz-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/jstz-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/jstz-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jstz/badges/version.svg)](https://anaconda.org/conda-forge/jstz)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jstz/badges/downloads.svg)](https://anaconda.org/conda-forge/jstz)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-jstz-green.svg)](https://anaconda.org/conda-forge/jstz) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/jstz.svg)](https://anaconda.org/conda-forge/jstz) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/jstz.svg)](https://anaconda.org/conda-forge/jstz) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/jstz.svg)](https://anaconda.org/conda-forge/jstz) |
 
 Installing jstz
 ===============
