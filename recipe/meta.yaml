@@ -1,6 +1,6 @@
 {% set name = "jstz" %}
-{% set version = "1.0.11" %}
-{% set sha256 = "985d5fd8705930aab9cc59046e99c1f512d05109c9098039f880df5f5df2bf24" %}
+{% set version = "2.1.1" %}
+{% set sha256 = "af93d9cb98841d28d32b32c4aed6a99456b2b64bd97fb61caabd0f19a91c55f7" %}
 
 package:
   name: {{ name|lower }}
